@@ -6,7 +6,7 @@
 
 <p align="center">
   Todos los productos del Lab, en un solo lugar.<br>
-  <a href="https://tinymoonlabs.com">tinymoonlabs.com</a>
+  <a href="https://tinymoonlabs.com">tinymoonlabs.com</a> · <a href="https://tml.uy">tml.uy</a> · <a href="https://tml.com.uy">tml.com.uy</a>
 </p>
 
 ---
