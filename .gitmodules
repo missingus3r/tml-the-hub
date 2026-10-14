@@ -1,0 +1,6 @@
+[submodule "productos/friday"]
+	path = productos/friday
+	url = https://github.com/missingus3r/friday-showcase.git
+[submodule "productos/capsule"]
+	path = productos/capsule
+	url = https://github.com/missingus3r/CAPSULE.git
