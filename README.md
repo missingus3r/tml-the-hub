@@ -19,6 +19,8 @@ Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos d
 |:-:|---|---|---|---|
 | <img src="assets/friday-logo.png" alt="" width="48" height="48"> | **Friday** | Un asistente personal que trabaja de día y de noche sobre Claude Code y te habla por Telegram. | [friday-showcase](https://github.com/missingus3r/friday-showcase) | [Conocer a Friday](https://missingus3r.github.io/friday-showcase/) |
 | <img src="assets/capsule-mark.svg" alt="" width="48" height="48"> | **Capsule** | Una red libre y descentralizada para mandar archivos y publicar sitios, sin cuenta y sin pedir permiso. | [CAPSULE](https://github.com/missingus3r/CAPSULE) | [Conocer Capsule](https://missingus3r.github.io/CAPSULE/) |
+| <img src="assets/aa-tube.svg" alt="" width="48" height="48"> | **AA Tube** | YouTube en la pantalla de Android Auto, con tu cuenta, para usar con el auto estacionado. | [aa-tube](https://github.com/missingus3r/aa-tube) | — |
+| <img src="assets/aa-disney.svg" alt="" width="48" height="48"> | **AA Disney** | Disney+ en la pantalla de Android Auto, con tu cuenta, para usar con el auto estacionado. | [aa-disney](https://github.com/missingus3r/aa-disney) | — |
 
 ## Clonar todo junto
 

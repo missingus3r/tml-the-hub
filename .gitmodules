@@ -4,3 +4,9 @@
 [submodule "productos/capsule"]
 	path = productos/capsule
 	url = https://github.com/missingus3r/CAPSULE.git
+[submodule "productos/aa-tube"]
+	path = productos/aa-tube
+	url = https://github.com/missingus3r/aa-tube.git
+[submodule "productos/aa-disney"]
+	path = productos/aa-disney
+	url = https://github.com/missingus3r/aa-disney.git
