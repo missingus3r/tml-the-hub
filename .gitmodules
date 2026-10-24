@@ -10,3 +10,6 @@
 [submodule "productos/aa-disney"]
 	path = productos/aa-disney
 	url = https://github.com/missingus3r/aa-disney.git
+[submodule "taller/archivo-en-vidrio"]
+	path = taller/archivo-en-vidrio
+	url = https://github.com/missingus3r/archivo-en-vidrio.git

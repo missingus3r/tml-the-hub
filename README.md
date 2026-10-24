@@ -11,7 +11,7 @@
 
 ---
 
-Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos de software y los publica abiertos para que cualquiera los use. Cada producto vive en su propio repositorio; este hub los reúne: los lista acá abajo y los incluye como submódulos en [`productos/`](productos).
+Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos de software y los publica abiertos para que cualquiera los use. Cada producto vive en su propio repositorio; este hub los reúne: los lista acá abajo y los incluye como submódulos en [`productos/`](productos). Los proyectos que todavía son demos van aparte, en [`taller/`](taller).
 
 ## Productos
 
@@ -21,6 +21,14 @@ Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos d
 | <img src="assets/capsule-mark.svg" alt="" width="48" height="48"> | **Capsule** | Una red libre y descentralizada para mandar archivos y publicar sitios, sin cuenta y sin pedir permiso. | [CAPSULE](https://github.com/missingus3r/CAPSULE) | [Conocer Capsule](https://missingus3r.github.io/CAPSULE/) |
 | <img src="assets/aa-tube.svg" alt="" width="48" height="48"> | **AA Tube** | YouTube en la pantalla de Android Auto, con tu cuenta, para usar con el auto estacionado. | [aa-tube](https://github.com/missingus3r/aa-tube) | — |
 | <img src="assets/aa-disney.svg" alt="" width="48" height="48"> | **AA Disney** | Disney+ en la pantalla de Android Auto, con tu cuenta, para usar con el auto estacionado. | [aa-disney](https://github.com/missingus3r/aa-disney) | — |
+
+## En el taller
+
+Demos y posibles proyectos futuros: se pueden probar, pero todavía no son productos.
+
+| | Proyecto | Qué es | Código | Sitio |
+|:-:|---|---|---|---|
+| <img src="assets/archivo-en-vidrio.svg" alt="" width="48" height="48"> | **Archivo en vidrio** | Demo 3D de un grabador DIY que escribe datos dentro de vidrio con un láser y los lee con una cámara, inspirado en Microsoft Project Silica. | [archivo-en-vidrio](https://github.com/missingus3r/archivo-en-vidrio) | [Ver el proyecto](https://tinymoonlabs.com/vidrio.html) · [Demo](https://tinymoonlabs.com/grabador-5d/) |
 
 ## Clonar todo junto
 
@@ -43,5 +51,6 @@ git submodule update --remote
 ## Sumar un producto
 
 1. Agregarlo como submódulo: `git submodule add https://github.com/missingus3r/<repo>.git productos/<nombre>`
-2. Poner su logo en `assets/` y sumar una fila a la tabla de **Productos**.
+   (o en `taller/<nombre>` si todavía es una demo).
+2. Poner su logo en `assets/` y sumar una fila a la tabla de **Productos** (o de **En el taller**).
 3. Commit y push.
