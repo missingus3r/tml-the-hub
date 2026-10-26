@@ -13,3 +13,6 @@
 [submodule "taller/archivo-en-vidrio"]
 	path = taller/archivo-en-vidrio
 	url = https://github.com/missingus3r/archivo-en-vidrio.git
+[submodule "taller/mano-bionica"]
+	path = taller/mano-bionica
+	url = https://github.com/missingus3r/mano-bionica.git

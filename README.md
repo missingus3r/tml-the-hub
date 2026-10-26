@@ -29,6 +29,7 @@ Demos y posibles proyectos futuros: se pueden probar, pero todavía no son produ
 | | Proyecto | Qué es | Código | Sitio |
 |:-:|---|---|---|---|
 | <img src="assets/archivo-en-vidrio.svg" alt="" width="48" height="48"> | **Archivo en vidrio** | Demo 3D de un grabador DIY que escribe datos dentro de vidrio con un láser y los lee con una cámara, inspirado en Microsoft Project Silica. | [archivo-en-vidrio](https://github.com/missingus3r/archivo-en-vidrio) | [Ver el proyecto](https://tinymoonlabs.com/vidrio.html) · [Demo](https://tinymoonlabs.com/grabador-5d/) |
+| <img src="assets/mano-bionica.svg" alt="" width="48" height="48"> | **Mano biónica** | Demo 3D de una mano robótica de 17 grados de libertad, con los servos adentro, que se mueve con las señales de los músculos del antebrazo (EMG) o con tu propia mano por cámara web o Leap Motion. | [mano-bionica](https://github.com/missingus3r/mano-bionica) | [Ver el proyecto](https://tinymoonlabs.com/mano.html) · [Demo](https://tinymoonlabs.com/mano-bionica/) |
 
 ## Clonar todo junto
 
