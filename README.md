@@ -6,12 +6,12 @@
 
 <p align="center">
   Todos los productos del Lab, en un solo lugar.<br>
-  <a href="https://tinymoonlabs.com">tinymoonlabs.com</a> · <a href="https://tml.uy">tml.uy</a> · <a href="https://tml.com.uy">tml.com.uy</a>
+  <a href="https://tinymoonlabs.com">tinymoonlabs.com</a> · <a href="https://tml.uy">tml.uy</a> · <a href="https://tml.com.uy">tml.com.uy</a> · <a href="https://github.com/missingus3r/tiny-moon-labs">repositorio principal</a>
 </p>
 
 ---
 
-Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos de software y los publica abiertos para que cualquiera los use. Cada producto vive en su propio repositorio; este hub los reúne: los lista acá abajo y los incluye como submódulos en [`productos/`](productos). Los proyectos que todavía son demos van aparte, en [`taller/`](taller).
+Tiny Moon Labs es un laboratorio chico, en Montevideo, que construye productos de software y los publica abiertos para que cualquiera los use. Cada producto vive en su propio repositorio; este hub los reúne: los lista acá abajo y los incluye como submódulos en [`productos/`](productos). Los proyectos que todavía son demos van aparte, en [`taller/`](taller). El sitio del Lab tiene su propio repositorio: [tiny-moon-labs](https://github.com/missingus3r/tiny-moon-labs).
 
 ## Productos
 
